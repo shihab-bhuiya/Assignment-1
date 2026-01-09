@@ -187,4 +187,32 @@ div .title1{
 .head p{
     line-height: 20px;
     font-size: 16px;
+    color: #627382;
+}
+.lower-part{
+    line-height: 20px;
+    font-size: 16px;
+}
+
+#access{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.heading h1 {
+    margin-bottom: 16px;
+}
+
+.heading {
+    margin-bottom: 16px;
+}
+.access-container button{
+    margin-bottom: 16px;
+    color: white;
+}
+#footer{
+    background-color: #001931;
+}
+.footer-menu li{
+    display: flex;
 }
